@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/cqblueprints-example/install/cqblueprints-example-services-1.0.0-SNAPSHOT.jar" />
+    <filter root="/apps/cqblueprints-example/install/cqblueprints-example-taglib-1.0.0-SNAPSHOT.jar" />
+    <filter root="/apps/cqblueprints-example/install/guice-3.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/peaberry-1.1.1.jar" />
+    <filter root="/apps/cqblueprints-example/install/com.springsource.org.aopalliance-1.0.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/com.springsource.javax.inject-1.0.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-core-api-3.2.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-core-3.2.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-mapper-3.2.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-mapper-api-3.2.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-validation-3.2.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-validation-api-3.2.0.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-cq56-1.0.1.jar" />
+    <filter root="/apps/cqblueprints-example/install/slice-cq56-taglib-1.0.1.jar" />
+    <filter root="/etc/packages/com.cqblueprints.example/cqblueprints-example-config-1.0.0-SNAPSHOT.zip" />
+    <filter root="/etc/packages/com.cqblueprints.example/cqblueprints-example-view-1.0.0-SNAPSHOT.zip" />
+    <filter root="/etc/packages/com.cqblueprints.taglib/cqblueprints-taglib-all-5.5.1.zip" />
+</workspaceFilter>

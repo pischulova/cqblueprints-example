@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cqblueprints-example-taglib" />
+    <orderEntry type="library" name="Maven: com.squeakysand.jsp:squeakysand-jsp:0.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand:squeakysand-commons:0.4.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.osgi:squeakysand-osgi:0.4.0" level="project" />
+    <orderEntry type="module" module-name="cqblueprints-example-services" />
+    <orderEntry type="library" name="Maven: com.day.cq.wcm:cq-wcm-api:5.5.0" level="project" />
+    <orderEntry type="library" name="Maven: com.cqblueprints.taglib:cqblueprints-taglib:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.jcr:squeakysand-jcr-taglib:bnd:0.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.jcr:squeakysand-jcr:0.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.jsp:squeakysand-jsp-taglib:bnd:0.4.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.sling:squeakysand-sling-taglib:bnd:0.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.sling:squeakysand-sling:0.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.inject:guice:3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ops4j:peaberry:1.1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.aopalliance:com.springsource.org.aopalliance:1.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.inject:com.springsource.javax.inject:1.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice:slice-core-api:3.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice:slice-core:3.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice:slice-mapper:3.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice:slice-mapper-api:3.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice:slice-validation:3.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice:slice-validation-api:3.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice-addon:slice-cq56:1.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.cognifide.slice-addon:slice-cq56-taglib:1.0.1" level="project" />
+  </component>
+</module>

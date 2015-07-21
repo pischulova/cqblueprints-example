@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cqblueprints-example-all/cqblueprints-example-all.iml" filepath="$PROJECT_DIR$/cqblueprints-example-all/cqblueprints-example-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqblueprints-example-config/cqblueprints-example-config.iml" filepath="$PROJECT_DIR$/cqblueprints-example-config/cqblueprints-example-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqblueprints-example-content/cqblueprints-example-content.iml" filepath="$PROJECT_DIR$/cqblueprints-example-content/cqblueprints-example-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqblueprints-example-services/cqblueprints-example-services.iml" filepath="$PROJECT_DIR$/cqblueprints-example-services/cqblueprints-example-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqblueprints-example-taglib/cqblueprints-example-taglib.iml" filepath="$PROJECT_DIR$/cqblueprints-example-taglib/cqblueprints-example-taglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqblueprints-example-view/cqblueprints-example-view.iml" filepath="$PROJECT_DIR$/cqblueprints-example-view/cqblueprints-example-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:Folder"
+    lastAccessed="{Date}2015-07-16T14:10:42.503+03:00"
+    lastAvailable="{Date}2015-07-20T12:43:17.235+03:00"
+    lastChecked="{Date}2015-07-20T12:43:17.235+03:00"
+    lastStatus="{Long}200"
+    referencedBy="[/libs/cq/core/content/welcome.html]"
+    valid="{Boolean}true"/>

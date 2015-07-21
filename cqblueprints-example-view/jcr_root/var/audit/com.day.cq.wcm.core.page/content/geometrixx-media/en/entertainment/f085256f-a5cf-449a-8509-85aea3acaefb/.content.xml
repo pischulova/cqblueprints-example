@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    cq:category="com/day/cq/wcm/core/page"
+    cq:path="/content/geometrixx-media/en/entertainment"
+    cq:properties="{Binary}"
+    cq:time="{Date}2015-07-16T17:22:16.129+03:00"
+    cq:type="PageModified"
+    cq:userid="admin"
+    jcr:primaryType="cq:AuditEvent"
+    path="/content/geometrixx-media/en/entertainment"
+    type="PageModified"
+    userId="admin"/>

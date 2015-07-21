@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    cq:category="com/day/cq/wcm/core/page"
+    cq:path="/etc/packages/com.epam.cq/.snapshot/chess-config-1.0.0-SNAPSHOT.zip"
+    cq:properties="{Binary}"
+    cq:time="{Date}2015-07-15T16:16:57.948+03:00"
+    cq:type="PageDeleted"
+    cq:userid="admin"
+    jcr:primaryType="cq:AuditEvent"
+    path="/etc/packages/com.epam.cq/.snapshot/chess-config-1.0.0-SNAPSHOT.zip"
+    type="PageDeleted"
+    userId="admin"/>

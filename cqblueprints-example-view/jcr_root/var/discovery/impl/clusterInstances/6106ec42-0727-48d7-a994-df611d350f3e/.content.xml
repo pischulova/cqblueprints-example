@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:Folder"
+    lastHeartbeat="{Date}2015-07-20T18:16:03.644+03:00"
+    leaderElectionId="0_0000001437403278618_6106ec42-0727-48d7-a994-df611d350f3e"/>

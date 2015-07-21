@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:Folder"
+    leaderElectionId="0_0000001436792097351_6106ec42-0727-48d7-a994-df611d350f3e"
+    leaderId="6106ec42-0727-48d7-a994-df611d350f3e"
+    promotedAt="{Date}2015-07-13T15:54:57.695+03:00"
+    votingStart="{Date}2015-07-13T15:54:57.679+03:00"/>
